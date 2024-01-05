@@ -1,7 +1,0 @@
-C:\Users\toaja\My_Programs_Local\stop-sleeping-c\bin\Debug\Stop-sleeping.exe.config
-C:\Users\toaja\My_Programs_Local\stop-sleeping-c\bin\Debug\Stop-sleeping.exe
-C:\Users\toaja\My_Programs_Local\stop-sleeping-c\bin\Debug\Stop-sleeping.pdb
-C:\Users\toaja\My_Programs_Local\stop-sleeping-c\obj\Debug\Stop-sleeping.csproj.AssemblyReference.cache
-C:\Users\toaja\My_Programs_Local\stop-sleeping-c\obj\Debug\Stop-sleeping.csproj.CoreCompileInputs.cache
-C:\Users\toaja\My_Programs_Local\stop-sleeping-c\obj\Debug\Stop-sleeping.exe
-C:\Users\toaja\My_Programs_Local\stop-sleeping-c\obj\Debug\Stop-sleeping.pdb
