@@ -1,7 +1,7 @@
-# stop-sleeping-c
-Write a file, D:\timer.txt, every minute to prevent the drive from sleeping. Runs as a Windows Service.
+# Stop Sleeping (in C#!)
+Write to the file, D:\timer.txt, every minute to prevent the drive from sleeping. Runs as a Windows Service, so it's Windows only.
 
-**IMPORTANT NOTE: It will not immediately start writing the file made. Please wait 60 seconds for it to generate/write to the file.**
+**IMPORTANT NOTE: It will not immediately start writing to the file. Please wait 60 seconds for it to generate/write to the file.**
 
 To use this, you need to install it as a service. It will not run otherwise (and will tell you so.) To install it as a service, follow the steps below:
 
