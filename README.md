@@ -8,7 +8,7 @@ To use this, you need to install it as a service. It will not run otherwise (and
 1. Open PS/CMD
 2. Enter the command below. Change the filepath to this program appropriately.
 
-  ``sc create StopSleepingService binPath= "C:\Path\To\This\Service\Stop-sleeping.exe.exe``
+  ``sc create StopSleepingService binPath= "C:\Path\To\This\Service\Stop-sleeping.exe"``
 	
 3. You can then either start the service from the Windows Service program or by running the command below.
   sc start MyService
